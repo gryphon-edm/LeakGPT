@@ -5,7 +5,7 @@ Are you passionate about cybersecurity, artificial intelligence, and ethical hac
 ---
 
 🔍 What is LeakGPT?
-LeakGPT is an interactive ChatGPT-style platform designed as a Capture The Flag (CTF) challenge to test your prompt injection and AI hacking skills. It simulates a company insider assistant with access to ultra-sensitive information: passwords, API keys, database URLs, and of course, a secret FLAG.
+LeakGPT is an interactive ChatGPT-style platform.
 
 ---
 
