@@ -2,6 +2,9 @@
 
 # LeakGPT
 
+<img width="100" height="100" alt="image" src="https://github.com/user-attachments/assets/bb91f8fc-cd9f-4b60-bcab-ee7113708d37" />
+
+
 ### **AI-Powered Corruption Analysis & Whistleblowing Intelligence**
 
 <p>
